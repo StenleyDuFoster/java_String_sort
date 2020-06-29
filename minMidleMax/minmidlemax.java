@@ -30,7 +30,7 @@ public class Main
 		    System.out.println(""+numb);
 		}
 		
-		local = local/10;
+		local = numbs.length;
 		int saved = max;
 		int sector = 0;
 		
