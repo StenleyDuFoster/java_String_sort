@@ -22,10 +22,10 @@ public class Main
 		    if(numb>max)
 		        max = numb;
 		        
-	        if(numb<min)
+		    if(numb<min)
 		        min = numb;
 		        
-	        local += numb;
+	            local += numb;
 		    
 		    System.out.println(""+numb);
 		}
