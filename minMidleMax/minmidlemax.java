@@ -46,8 +46,6 @@ public class Main
 		        } 
 		}
 		
-		System.out.println("minimum "+min+
-		" maximum "+max+
-		" midle " + numbs[sector]);
+		System.out.printf("minimum %d\nmaximum %d\nmidle %d" ,min,max,numbs[sector]);
 	}
 }
